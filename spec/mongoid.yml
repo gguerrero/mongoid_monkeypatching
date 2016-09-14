@@ -1,0 +1,6 @@
+test:
+  clients:
+    default:
+      database: mongoid_monkeypatching
+      hosts:
+        - localhost:27017
